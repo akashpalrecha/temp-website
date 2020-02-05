@@ -146,7 +146,7 @@ fields:
   label: Exclude
   name: exclude
   description: Files that should be excluded from the build
-  hidden: true
+  hidden: false
   default:
   - README.md
 - type: list
