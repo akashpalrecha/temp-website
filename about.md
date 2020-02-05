@@ -16,7 +16,7 @@ sidebar_sort_order:
 
 \---
 
-\# 👨🏻‍🎓 Background
+# 👨🏻‍🎓 Background
 
 \---
 
