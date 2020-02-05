@@ -115,7 +115,7 @@ More blogs coming soon
 
 - **Drought Detection Challenge: #1 on Weights and Biases Leaderboard**
 
-    ![files/leaderboard.png](./../files/About/leaderboard.png)
+    ![files/leaderboard.png](/assets/img/leaderboard.png)
 		
 
     This is a small part of my work in Pixxel that is public. This challenge provides a dataset to detect areas of the earth affected by drought using satellite imagery. I trained the model for this challenge using PyTorch and am currently (as of 13 Jan, 2020) **#1** on the leaderboard since September 2019.
