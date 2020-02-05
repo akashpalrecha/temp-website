@@ -12,7 +12,7 @@ sidebar_sort_order:
 [E-mail](mailto:akash@pixxel.co.in) • [Twitter](https://twitter.com/akashpalrecha98) • [Github](https://github.com/akashpalrecha) • [LinkedIn](https://www.linkedin.com/in/akashpalrecha/) • [+919879990466](#)
 
 
-[Resume.pdf](./../files/About/Updated_TA_Resume.pdf)
+[Resume.pdf](/assets/img/Updated_TA_Resume.pdf)
 
 ---
 
