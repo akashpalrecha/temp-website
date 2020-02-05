@@ -10,6 +10,15 @@ fields:
   description: Enter your markdown parser here (default kramdown).
   config:
     required: true
+- type: list
+  label: Exclude
+  name: exclude
+  description: Files that should be excluded from the build
+  hidden: false
+  default:
+  - README.md
+  config:
+    use_select: false
 - name: highlighter
   label: Highlighter
   type: text
@@ -142,13 +151,6 @@ fields:
   label: Google Analytics Tracking Code (optional)
   description: Add analytics by adding your Google Analytics tracking code here. More
     information on the tracking code at https://support.google.com/analytics/answer/7372977?ctx=glossary
-- type: list
-  label: Exclude
-  name: exclude
-  description: Files that should be excluded from the build
-  hidden: false
-  default:
-  - README.md
 - type: list
   name: plugins
   label: Plugins
