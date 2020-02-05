@@ -12,7 +12,7 @@ sidebar_sort_order:
 [E-mail](mailto:akash@pixxel.co.in) • [Twitter](https://twitter.com/akashpalrecha98) • [Github](https://github.com/akashpalrecha) • [LinkedIn](https://www.linkedin.com/in/akashpalrecha/) • [+919879990466](#)
 
 
-[Resume.pdf](/assets/img/Updated_TA_Resume.pdf)
+[Resume.pdf](/assets/img/about/Updated_TA_Resume.pdf)
 
 ---
 
@@ -115,7 +115,7 @@ More blogs coming soon
 
 - **Drought Detection Challenge: #1 on Weights and Biases Leaderboard**
 
-    ![files/leaderboard.png](/assets/img/leaderboard.png)
+    ![files/leaderboard.png](/assets/img/about/leaderboard.png)
 		
 
     This is a small part of my work in Pixxel that is public. This challenge provides a dataset to detect areas of the earth affected by drought using satellite imagery. I trained the model for this challenge using PyTorch and am currently (as of 13 Jan, 2020) **#1** on the leaderboard since September 2019.
