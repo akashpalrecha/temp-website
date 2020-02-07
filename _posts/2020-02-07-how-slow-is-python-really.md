@@ -2,6 +2,7 @@
 title: How slow is Python really?
 layout: post
 category: blog
+comments: true
 ---
 
 This is a very short post that compares plain `python` loops to `C` loops (sort of). We will write python code, compile it using the [Numba](https://numba.pydata.org) library and see the difference in both the implementations (interpreted vs compiled). <br>

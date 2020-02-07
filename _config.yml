@@ -27,5 +27,5 @@ layout-reverse: false
 # remote_theme: fongandrew/hydeout
 google_analytics: ''
 disqus:
-  shortname: ''
+  shortname: "akashpalrecha"
 theme: jekyll-theme-hydeout
